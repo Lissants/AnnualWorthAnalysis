@@ -28,5 +28,5 @@ Hence, among all three proposals, Proposal B should be preferred since it offers
 <h2>Program Implementation</h2>
 The program is made to automate the calculation for the required analysis.
 </br>The preferred output is as such:
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/8R4KhWL" data-context="false" ><a href="//imgur.com/a/8R4KhWL"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://cdn.discordapp.com/attachments/821442312118206496/1238514708638859354/Screenshot_2024-05-10_222326.png?ex=663f9035&is=663e3eb5&hm=cdb6efee659d80e0be3692872f6246daff717ac7953747c1a77e6a30564f0849&" alt="Program Implementation">
 
