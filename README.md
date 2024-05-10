@@ -28,5 +28,5 @@ Hence, among all three proposals, Proposal B should be preferred since it offers
 <h2>Program Implementation</h2>
 The program is made to automate the calculation for the required analysis.
 </br>The preferred output is as such:
-<img srg="https://i.imgur.com/k0BnXRn.png" alt="Program Output">
+<img srg="https://i.imgur.com/8R4KhWL.png" alt="Program Output">
 
