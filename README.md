@@ -28,5 +28,5 @@ Hence, among all three proposals, Proposal B should be preferred since it offers
 <h2>Program Implementation</h2>
 The program is made to automate the calculation for the required analysis.
 </br>The preferred output is as such:
-<img src="https://cdn.discordapp.com/attachments/821442312118206496/1238514708638859354/Screenshot_2024-05-10_222326.png?ex=663f9035&is=663e3eb5&hm=cdb6efee659d80e0be3692872f6246daff717ac7953747c1a77e6a30564f0849&" alt="Program Implementation">
+<img src="https://github.com/Lissants/AnnualWorthAnalysis/assets/56996032/5a8e6b85-baeb-4e71-a09c-57dbe7ab69aa" alt="Program Output">
 
